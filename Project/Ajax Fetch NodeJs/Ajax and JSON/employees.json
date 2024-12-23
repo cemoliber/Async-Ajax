@@ -1,0 +1,21 @@
+[
+    {
+        "name":"Cemalettin Coşgun",
+        "department":"Software",
+        "salary":50000
+    },
+    {
+        "name":"Elon Musk",
+        "department":"Technician",
+        "salary":17002
+    },{
+        "name":"Steve Jobs",
+        "department":"Technician",
+        "salary":17003
+    },
+    {
+        "name":"Volkan Konak",
+        "department":"HR",
+        "salary":25000
+    }
+]
